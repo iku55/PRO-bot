@@ -1,6 +1,8 @@
 # PRO-bot
 PlayerRealmsOnlineInformation
 
+## 今も多分使えるよ！
+
 せつめい！<br>
 サバチェの劣化版。
 特に意味もなく作ったがそのままPR閉鎖したのでオープンソースにした。
